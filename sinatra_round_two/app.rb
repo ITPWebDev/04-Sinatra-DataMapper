@@ -19,6 +19,9 @@
 # view and the url is a representation of the controller. We'll get in
 # to this more further down.
 
+# The rest of this documentation reads best if you download [this source](https://github.com/ITPWebDev/04-Sinatra-DataMapper)
+# and work from the files.
+
 # First we need to set up the app, just like last time we tell Ruby to 
 # look at our gems and then get the Sinatra gem.
 require 'rubygems'
